@@ -38,9 +38,9 @@ This project is a developed with a Django REST Framework for the  backend and a 
 
 
 
-  4. Navigate to the backend directory:
+  4. Navigate to the doc_manager directory:
      ```bash
-     cd backend
+     cd doc_manager
 
 
   5. Install the required Python packages:
