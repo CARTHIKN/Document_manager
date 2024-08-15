@@ -22,7 +22,7 @@ This project is a developed with a Django REST Framework for the  backend and a 
 
   1. Clone the repository:
      ```bash
-     git clone [https://github.com/RahulRajeev-0/Project-Manager.git](https://github.com/CARTHIKN/Document_manager.git)
+     git clone https://github.com/CARTHIKN/Document_manager.git
 
   2. Create a virtual environment:
      ```bash
