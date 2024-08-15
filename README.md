@@ -53,7 +53,7 @@ This project is a developed with a Django REST Framework for the  backend and a 
      python manage.py migrate
 
 
-   6. Apply database migrations:
+   7. Run the Django development server::
       ```bash
      python manage.py runserver
 
