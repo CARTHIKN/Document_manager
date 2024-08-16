@@ -18,7 +18,7 @@ This project is a developed with a Django REST Framework for the  backend and a 
 
 ## Installation
 
-** Backend Setup**
+**Backend Setup**
 
   1. Clone the repository:
      ```bash
