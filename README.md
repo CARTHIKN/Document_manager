@@ -58,7 +58,7 @@ This project is a developed with a Django REST Framework for the  backend and a 
      python manage.py runserver
 
 
-** Frontend Setup**
+**Frontend Setup**
 
    1. Navigate to the frontend directory:
       ```bash
